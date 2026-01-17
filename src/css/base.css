@@ -22,6 +22,11 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   margin: 0;
+  margin: 0;
+  padding: 16px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #fafafa;
+  color: #2e2f42;
 }
 
 main {
